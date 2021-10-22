@@ -6,6 +6,7 @@ Using Data Assembly to Tidy Data, Add rows, Add columns, and Merge Data. Using M
 
 Each variable forms a column. Each observation forms a row. Each type of observational unit forms a table. Wickham makes the observation that his three rules correspond to Edgar F. Codd's 3rd Normal Form (3NF) that forms the backbone of relational database design. We'll discuss relevant parts of 3NF in Section 1.3 below, and look at Tidy Data in more detail as we discuss Exploratory Data Analysis.
 
+#### Reference
 Wickham, H. (2014). Tidy data. Journal of Statistical Software, 59(10), 1-23."
 
 ## 1.2 Adding Rows
